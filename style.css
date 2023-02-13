@@ -1,0 +1,35 @@
+html {
+    font-size: 10px; /* font-size значит размер шрифта */
+    font-family: Zeyada; /* font-family значит имя шрифта, название */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center; /* text-align значит расположение текста на странице */
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2; /* line-height значит растояние между строками */
+    letter-spacing: 1px; /* letter-spacing значит растояние между буквами в словах */
+}
+html {
+    background-color: #349030; /* background-color значит цвет позади контента и padding элементов */
+}
+body {
+    width: 600px; /* width значит ширину элемента */
+    margin: 0 auto; /* margin значит пространство вокруг внешней стороны элемента */
+    background-color: #FF9500;
+    padding: 0 140px 20px 20px; /* padding это пространство только вокруг контента (например, вокруг абзаца текста) */
+    border: 5px solid black; /* border это сплошная линия вокруг внешней стороны элемента */
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #349030;
+    text-shadow: 3px 3px 1px black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
